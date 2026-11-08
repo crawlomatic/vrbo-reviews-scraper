@@ -1,0 +1,23 @@
+{
+  "name": "vrbo-reviews-scraper",
+  "version": "1.0.0",
+  "description": "Scrape Vrbo property reviews, traveler feedback, star ratings, and host communication scores without getting blocked.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "vrbo",
+    "vrbo-scraper",
+    "vacation-homes",
+    "travel-analytics",
+    "short-term-rentals",
+    "apify-actor"
+  ],
+  "author": "Crawlomatic (https://crawlomatic.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  }
+}
